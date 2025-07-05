@@ -1,5 +1,3 @@
-# Instagram_Caption_Generator_UsingGenAI
-
 # Instagram Caption Generator Using Generative AI
 
 ## Overview
